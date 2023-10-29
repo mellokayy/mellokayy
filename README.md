@@ -29,4 +29,4 @@ Atualmente estou dedicando meu tempo para aprender Java e C#. Minha ambição é
 </div>
 
 
-![Snake animation](https://github.com/mellokayy/mellokayy/blob/output/github-contribution-grid-snake-dark.svg))
+![Snake animation](https://github.com/mellokayy/mellokayy/blob/output/github-contribution-grid-snake-dark.svg)
