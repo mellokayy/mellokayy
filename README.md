@@ -5,7 +5,7 @@
 <!--<p><em>Estudante de Análise e Desenvolvimento de Sistemas com uma paixão pela área de bancos de dados, meu foco principal é me tornar uma desenvolvedora back-end. Sou entusiasta pela manipulação de dados e tenho um forte interesse em SQL Server. 
 Atualmente estou dedicando meu tempo para aprender Java e C#. Minha ambição é constante - sempre em busca de descobrir e aprender coisas novas. Aberta a colaborações e sempre ansiosa por novos desafios, ansiosa para expandir meu conhecimento.</em></p>
 -->
-<p><em>A student of Analysis and Systems Development with a passion for the field of databases, my primary focus is to become a back-end developer. I am enthusiastic about data manipulation and have a strong interest in SQL Server. Currently, I am dedicating my time to learning Java and C#. My ambition is constant - always in search of discovering and learning new things. Open to collaborations.</em></p>
+<p><em>A student of Analysis and Systems Development with a passion for the database area, my primary focus is to become a back-end developer. I am enthusiastic about data manipulation and have a strong interest in SQL Server. Currently, I am dedicating my time to learning Java and C#. My ambition is constant - always in search of discovering and learning new things. Open to collaborations.</em></p>
 
 <h2>Languages, Skills and IDEs: </h2>
 
