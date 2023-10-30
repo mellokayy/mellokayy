@@ -1,6 +1,5 @@
-<h1 style="color: purple";>Hello! Welcome to my Github profile👋</h1>
+<h1> Hi! I'm Kayanne Mello! 😎</h1>
 <img align='right' src= "https://github.com/mellokayy/mellokayy/blob/main/.github/workflows/coding.png" width="159">
-<h2> My name is Kayanne Mello and my nickname is "Kay"! </h2>
 
 <!--<p><em>Estudante de Análise e Desenvolvimento de Sistemas com uma paixão pela área de bancos de dados, meu foco principal é me tornar uma desenvolvedora back-end. Sou entusiasta pela manipulação de dados e tenho um forte interesse em SQL Server. 
 Atualmente estou dedicando meu tempo para aprender Java e C#. Minha ambição é constante - sempre em busca de descobrir e aprender coisas novas. Aberta a colaborações e sempre ansiosa por novos desafios, ansiosa para expandir meu conhecimento.</em></p>
